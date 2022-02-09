@@ -1,0 +1,70 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+h1{
+  color:black;
+}
+div{color:crimson}
+
+
+
+
+
+
+.hero-banner {
+  background-image: url("herobanner.jpeg");
+  background-repeat: no-repeat;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+}
+
+
+
+
+
+.car-information {
+  background-image: url("race track.jpeg");
+  background-size: "center"
+  height: 100px;
+  background-position: center;
+  
+}
+.car-information {
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center; 
+}
+
+
+footer{
+  background-color:black;
+}
+
+
+
+
+
+*{
+  padding: 0px
+  
+}
+
+
+
+
+
+
+
